@@ -14,6 +14,7 @@ Di materi ini, repo yang dibikin adalah repo buat proyek Student Task Planner, y
 – Kirim ke GitHub pakai git push origin main, dan ambil update pakai git pull origin main
 
 Fungsinya:
+
 – Nyimpen semua file proyek rapi di satu tempat
 – Ngelacak riwayat perubahan, jadi bisa balik ke versi sebelumnya kalau ada yang salah
 – Memudahkan kerja bareng karena banyak orang bisa ngerjain proyek yang sama
